@@ -3,6 +3,7 @@
  <a href="https://www.linkedin.com/in/tarek-bakr-4b414721/"><img src="https://img.shields.io/badge/linkedin-My%20linkedIn%20Page-blue"/></a>
  <a href="https://www.youtube.com/channel/UClG2_uTmU_Wv-TwtEKL3m0g"><img src="https://img.shields.io/badge/linkedin-Youtube%20Channel-red"/></a>
   </p>
+  <img src="https://github.com/tfathy/tfathy/blob/main/funny.png"/>
 <!--
 **tfathy/tfathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
