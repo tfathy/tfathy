@@ -4,10 +4,12 @@
  <a href="https://www.youtube.com/channel/UClG2_uTmU_Wv-TwtEKL3m0g"><img src="https://img.shields.io/badge/linkedin-Youtube%20Channel-red"/></a>
  </p>
  <div>
-  🔭 I’m currently a software developer -team leader working on <a href="http://dhaman.net/en/">DHAMAN<a>
-  <p align="right">
-  <img src="https://github.com/tfathy/tfathy/blob/main/funny.png"/>
-</p>
+  <p alight="start">
+  🔭 I’m currently a fullstack developer -team leader working on <a href="http://dhaman.net/en/">DHAMAN<a>
+  Interseted in Angular, Spring cloud, spring microservices
+    </p>
+  <img src="https://github.com/tfathy/tfathy/blob/main/funny.png" align="right"/>
+
 <div>
     
 
