@@ -1,5 +1,5 @@
 <h1>  Hi there I'm Tarek 👋 </h1>
-<p align="center">
+<p align="right">
   <img src="https://github.com/tfathy/tfathy/blob/main/funny.png"/>
 </p>
 <p align="center">
