@@ -4,7 +4,7 @@
  <a href="https://www.youtube.com/channel/UClG2_uTmU_Wv-TwtEKL3m0g"><img src="https://img.shields.io/badge/linkedin-Youtube%20Channel-red"/></a>
  </p>
  <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eventbrite.co.uk%2Fblog%2F10-places-to-get-free-images-for-your-event-marketing-ds00%2F&psig=AOvVaw0bSv8iYIvVx641qVIlalZ8&ust=1623659365065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCkhpaYlPECFQAAAAAdAAAAABAD" align="center" width="25%"/>
+  <img src="https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/8/unsplash-Josh-Earl.jpg" align="center" width="25%"/>
   <p>
  <div>
   <p alight="start">
